@@ -1,4 +1,4 @@
-# colab-r-setup
+# Google Colaboratory R-setup
 
 # Colab R Setup 🚀
 
